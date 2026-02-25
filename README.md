@@ -94,16 +94,7 @@ AI_Drowsiness_Detection/
 4. Click **START**
 5. Press **Q** to exit
 
-No Python installation required.
-
----
-
-### Option 2 – Setup Installer
-
-1. Download the Setup Installer from Releases
-2. Run installer
-3. Choose install location
-4. Launch from Desktop shortcut
+No Python installation required 
 
 ---
 
@@ -154,10 +145,10 @@ Warning displayed with:
 ## 👨‍💻 Developer
 
 Developed by:  
-**[Dharnesh Priyan J]**
+**Dharnesh Priyan J**
 
 Project Type:  
-Final Year / AI Computer Vision Project
+Final Year Project
 
 ---
 
